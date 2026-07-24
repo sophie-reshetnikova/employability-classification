@@ -9,6 +9,7 @@ This project applies machine learning classification techniques to predict gradu
 The dataset used in this project was obtained from Kaggle:
 
 [Student Employability Dataset](https://www.kaggle.com/datasets/likithagedipudi/campus-placement-prediction)
+
 The dataset contains information about student academic performance, skills, experience, and other employability-related factors. The target variable is:
 
 - `placed = 1`: student successfully placed/employed
